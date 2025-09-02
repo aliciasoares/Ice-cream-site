@@ -3,8 +3,8 @@ body {
     height: 100vh;
     background: linear-gradient(
       to right,
-      #f2f2f2 50%,   /* Cinza claro na esquerda */
-      #d9c6bb 50%    /* Marrom claro na direita */
+      #f2f2f2 50%,  
+      #d9c6bb 50%   
     );
     display: flex;
     justify-content: center;
@@ -97,5 +97,6 @@ body {
       }
       
     
+
 
 
